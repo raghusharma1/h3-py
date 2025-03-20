@@ -1,0 +1,7 @@
+cells
+memory
+numpy
+packaging
+pandas
+pytest
+vertex
